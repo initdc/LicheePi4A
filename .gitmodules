@@ -7,6 +7,7 @@
 [submodule "external/revyos/thead-kernel"]
 	path = external/revyos/thead-kernel
 	url = https://github.com/revyos/thead-kernel.git
+	branch = lpi4a
 [submodule "external/revyos/thead-u-boot"]
 	path = external/revyos/thead-u-boot
 	url = https://github.com/revyos/thead-u-boot.git
